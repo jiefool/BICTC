@@ -116,7 +116,7 @@ function draw() {
             canvas.beginPath();
             switch (cell) {
                 case -1:
-                    color = "#FFFFFF";
+                    color = "rgba(255, 255, 255, 0)";
                     break;
                 case 0:
                     color = "#4DA6E7";

@@ -3,20 +3,21 @@ baseurl: ""
 
 # Site settings
 title: BiCTC
-email: your-email@domain.com
+phone: (+6338) 412-4559
+email: boholipc@gmail.com
 description: "Bohol Information and Communication Technology Council"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
+  primary: 4DA6E7
+  secondary: 75bbed  
   secondary-dark: 333
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Lai Biliran
+  pic: lai
+  position: President
   social:
     - title: twitter
       url: #
@@ -25,9 +26,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Jerome Auza
+  pic: jerome
+  position: Vice President
   social:
     - title: twitter
       url: #
@@ -36,9 +37,152 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Ashley Uy
+  pic: ash
+  position: Secretary
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Amie Caballo
+  pic: tarsier
+  position: Treasurer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Leah Magno 
+  pic: tarsier
+  position: Auditor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Romy Teruel 
+  pic: tarsier
+  position: Press Relation Officer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Roy Bayonas  
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Santino Paredes
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Benjamin Skelton
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Benjie Jamora 
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Hannah Hane Barillo  
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Maricel Golosino
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Melvin Soldia   
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Dalareich Polot 
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Marlis Badiang
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Jay Paul Aying
+  pic: tarsier
+  position: Asstant Secretary
   social:
     - title: twitter
       url: #
@@ -50,16 +194,11 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/jaypaulaying
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
+    url: https://www.facebook.com/pages/Bohol-ICT-Council/298406196882599?fref=ts
+  - title: linkedin
+    url: 
 # Postal address (add as many lines as necessary)
 address:
   - line: 3481 Melrose Place
