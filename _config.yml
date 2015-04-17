@@ -49,7 +49,7 @@ people:
       url: #
 
 - name: Amie Caballo
-  pic: tarsier
+  pic: amie
   position: Treasurer
   social:
     - title: twitter
@@ -60,7 +60,7 @@ people:
       url: #
 
 - name: Leah Magno 
-  pic: tarsier
+  pic: leah
   position: Auditor
   social:
     - title: twitter
@@ -71,7 +71,7 @@ people:
       url: #
 
 - name: Romy Teruel 
-  pic: tarsier
+  pic: romy
   position: Press Relation Officer
   social:
     - title: twitter
@@ -82,7 +82,7 @@ people:
       url: #
 
 - name: Roy Bayonas  
-  pic: tarsier
+  pic: roy
   position: Board of Trustee
   social:
     - title: twitter
@@ -104,7 +104,7 @@ people:
       url: #
 
 - name: Benjamin Skelton
-  pic: tarsier
+  pic: ben
   position: Board of Trustee
   social:
     - title: twitter
@@ -137,7 +137,7 @@ people:
       url: #
 
 - name: Maricel Golosino
-  pic: tarsier
+  pic: maricel
   position: Board of Trustee
   social:
     - title: twitter
@@ -148,7 +148,7 @@ people:
       url: #
 
 - name: Melvin Soldia   
-  pic: tarsier
+  pic: melvin
   position: Board of Trustee
   social:
     - title: twitter
@@ -159,7 +159,7 @@ people:
       url: #
 
 - name: Dalareich Polot 
-  pic: tarsier
+  pic: dal
   position: Board of Trustee
   social:
     - title: twitter
@@ -181,8 +181,8 @@ people:
       url: #
 
 - name: Jay Paul Aying
-  pic: tarsier
-  position: Asstant Secretary
+  pic: jay
+  position: Assistant Secretary
   social:
     - title: twitter
       url: #
