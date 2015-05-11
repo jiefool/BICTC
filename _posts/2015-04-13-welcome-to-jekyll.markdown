@@ -2,11 +2,6 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-04-13 18:59:35
-img: dreams.png
-modal-id: 0
-date: 2014-04-13
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 categories: jekyll update
 ---
