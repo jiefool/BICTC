@@ -1,5 +1,5 @@
-url: "http://jiefool.github.io/BICTC/"
-baseurl: ""
+url: "http://jiefool.github.io/"
+baseurl: "/BICTC"
 
 # Site settings
 title: BiCTC
