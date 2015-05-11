@@ -1,0 +1,209 @@
+url: "http://jiefool.github.io/"
+baseurl: "/BICTC"
+
+# Site settings
+title: BiCTC
+phone: (+6338) 412-4559
+email: boholipc@gmail.com
+description: "Bohol Information and Communication Technology Council"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 4DA6E7
+  secondary: 75bbed  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Lai Biliran
+  pic: lai
+  position: President
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Jerome Auza
+  pic: jerome
+  position: Vice President
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Ashley Uy
+  pic: ash
+  position: Secretary
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Amie Caballo
+  pic: amie
+  position: Treasurer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Leah Magno 
+  pic: leah
+  position: Auditor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Romy Teruel 
+  pic: romy
+  position: Press Relation Officer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Roy Bayonas  
+  pic: roy
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Santino Paredes
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Benjamin Skelton
+  pic: ben
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Benjie Jamora 
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Hannah Hane Barillo  
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Maricel Golosino
+  pic: maricel
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Melvin Soldia   
+  pic: melvin
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Dalareich Polot 
+  pic: dal
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Marlis Badiang
+  pic: tarsier
+  position: Board of Trustee
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Jay Paul Aying
+  pic: jay
+  position: Assistant Secretary
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/jaypaulaying
+  - title: facebook
+    url: https://www.facebook.com/pages/Bohol-ICT-Council/298406196882599?fref=ts
+  - title: linkedin
+    url: 
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
