@@ -267,7 +267,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    text-align: center;
     color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/bohol-header-bg.jpg');
@@ -281,10 +280,11 @@ header {
 
 
 header .intro{
+    text-align: center;
+    display: block;
     padding-top: 150px;
     padding-bottom: 100px;
 }
-
 
 section {
     padding: 100px 0;
