@@ -1,5 +1,18 @@
-var canvas = document.getElementById('c').getContext('2d'),
+$(document).ready(function(){
+  var windowWidth = window.screen.availWidth;
+  if (windowWidth > 360){
+    canvasWidth = windowWidth/3;
+  } else {
+    canvasWidth = windowWidth - 60;
+  }
+  $("#c").width(canvasWidth);
+});
+
+
+var canvas = document.getElementById('c').getContext('2d');
     cells = [];
+
+
 
 init();
 
@@ -10,7 +23,7 @@ function init() {
             cells[i][j] = -1;
         }
     }
-    
+
     // Prefilled cells
     [
         [13,1,0],[14,1,0],[11,2,0],[12,2,0],[13,2,0],[14,2,0],
@@ -53,13 +66,13 @@ function init() {
 }
 
 function update() {
-    
+
     var result = [];
-    
+
     /* Return amount of alive neighbours for a cell */
     function _countNeighbours(x, y) {
         var amount = 0;
-        
+
         function _isFilled(x, y) {
             filled = 0;
             if (x > -1 && x < 23 && y > -1 && y < 17)
@@ -69,7 +82,7 @@ function update() {
             }
             return filled;
         }
-        
+
         if (_isFilled(x-1, y-1)) amount++;
         if (_isFilled(x,   y-1)) amount++;
         if (_isFilled(x+1, y-1)) amount++;
@@ -78,10 +91,10 @@ function update() {
         if (_isFilled(x-1, y+1)) amount++;
         if (_isFilled(x,   y+1)) amount++;
         if (_isFilled(x+1, y+1)) amount++;
-        
+
         return amount;
     }
-    
+
     cells.forEach(function(row, x) {
         result[x] = [];
         row.forEach(function(cell, y) {
@@ -99,13 +112,13 @@ function update() {
                     alive = count === 3 ? 1 : 0;
                 }
             }
-            
+
             result[x][y] = alive;
         });
     });
-    
+
     cells = result;
-    
+
     draw();
 }
 
@@ -128,7 +141,7 @@ function draw() {
             canvas.fillStyle = color;
             canvas.arc(x*20+10, y*20+10, 9, 0, Math.PI*2, true);
             canvas.fill();
-            canvas.closePath()  
+            canvas.closePath()
         });
     });
     setTimeout(function() {update();}, 500);
