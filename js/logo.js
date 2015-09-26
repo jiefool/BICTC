@@ -101,7 +101,7 @@ function update() {
             var alive = 0;
             if (cell == -1) {
                 alive = -1;
-                console.log(x,y);
+                // console.log(x,y);
             }
             else
             {
