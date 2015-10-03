@@ -1,11 +1,11 @@
 ---
-title:  ICT Organizational and Planning Workshop
+title:  Bohol ICT Summit
 subtitle: Working Officers
 layout: default
-modal-id: 1
-date: 2008-04-08
-img: bohol_ict_sectoral_planning_2.png
-thumbnail: bohol_ict_sectoral_planning_2.png
+modal-id: 4
+date: 2011-04-01
+img: boho_ict_summit_1.png
+thumbnail: boho_ict_summit_2.png
 alt: bohol ict sectoral planning
 project-date: April 2008
 client: Start Bootstrap

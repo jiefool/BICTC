@@ -1,11 +1,11 @@
 ---
-title:  ICT Organizational and Planning Workshop
+title: Bohol ICT Business Forum with DOST-ICTO, CCAP, and BPAP
 subtitle: Working Officers
 layout: default
-modal-id: 1
-date: 2008-04-08
-img: bohol_ict_sectoral_planning_2.png
-thumbnail: bohol_ict_sectoral_planning_2.png
+modal-id: 6
+date: 2012-02-01
+img: bictc.png
+thumbnail: bictc.png
 alt: bohol ict sectoral planning
 project-date: April 2008
 client: Start Bootstrap
