@@ -2,7 +2,7 @@
 title:  Techno Consultancy with  Tagbilaran City Business Owners by PLDT SME Nation
 subtitle: Working Officers
 layout: default
-modal-id: 11
+modal-id: 12
 date: 2014-02-13
 img: pldt_sme_techno_consultancy.png
 thumbnail: pldt_sme_techno_consultancy.png
@@ -13,5 +13,5 @@ category: Web Development
 description:
 ---
 
-techno-consultancy-with--tagbilaran-city-business-owners-by-pldt-sme-nation
+
 

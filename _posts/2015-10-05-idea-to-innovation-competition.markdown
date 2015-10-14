@@ -2,7 +2,7 @@
 title:  Idea to Innovation Competition
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 13
 date: 2015-10-05
 img: i2i.png
 thumbnail: i2i.png

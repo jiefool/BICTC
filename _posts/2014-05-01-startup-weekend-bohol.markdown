@@ -1,6 +1,6 @@
 ---
 title: Startup Weekend Bohol
-subtitle: Working Officers
+subtitle: In Association with TechTalks.ph
 layout: default
 modal-id: 11
 date: 2014-02-13
