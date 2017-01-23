@@ -15,8 +15,8 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Lai Biliran
-  pic: lai
+- name: Joanne Phillips
+  pic: joannep
   position: President
   social:
     - title: twitter
@@ -26,86 +26,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Jerome Auza
-  pic: jerome
-  position: Vice President
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Ashley Uy
-  pic: ash
-  position: Secretary
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Amie Caballo
-  pic: amie
-  position: Treasurer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Leah Magno 
-  pic: leah
-  position: Auditor
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Romy Teruel 
-  pic: romy
-  position: Press Relation Officer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Roy Bayonas  
-  pic: roy
-  position: Board of Trustee
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Santino Paredes
-  pic: tarsier
-  position: Board of Trustee
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
 - name: Benjamin Skelton
   pic: ben
-  position: Board of Trustee
+  position: Vice President, Game Development & Animation
   social:
     - title: twitter
       url: #
@@ -114,20 +37,9 @@ people:
     - title: google-plus
       url: #
 
-- name: Benjie Jamora 
-  pic: tarsier
-  position: Board of Trustee
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Hannah Hane Barillo  
-  pic: tarsier
-  position: Board of Trustee
+- name: Ace Lumaad
+  pic: acel
+  position: Software Development
   social:
     - title: twitter
       url: #
@@ -136,31 +48,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Maricel Golosino
-  pic: maricel
-  position: Board of Trustee
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Melvin Soldia   
-  pic: melvin
-  position: Board of Trustee
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Dalareich Polot 
-  pic: dal
-  position: Board of Trustee
+- name: Bryan Jatico Agua
+  pic: bryana
+  position: Freelancers
   social:
     - title: twitter
       url: #
@@ -169,9 +59,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Marlis Badiang
-  pic: tarsier
-  position: Board of Trustee
+- name: Jerome Auza
+  pic: jerome
+  position: Software Development
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Monica Jane Roldan
+  pic: monicar
+  position: E-Commerce & ICT Dealers, Entrepreneurship
   social:
     - title: twitter
       url: #
@@ -180,15 +81,81 @@ people:
     - title: google-plus
       url: #
 
-- name: Jay Paul Aying
-  pic: jay
-  position: Assistant Secretary
+- name: Nelson Buena
+  pic: nelsonb
+  position: Web Development
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Nizah Bagares
+  pic: nizahb
+  position: Seminars, Training and Workshops
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Ric Obedencio
+  pic: rico
+  position: Photo Journalism
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: google-plus
+      url: #
+
+- name: Roy E. Bayonas
+  pic: roy
+  position: Startup Community
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Sarah Ladeza
+  pic: sarahl
+  position: Secretary, Bloggers
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Thomas Ridenour
+  pic: thomasr
+  position: Digital Marketing
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Zion Campo
+  pic: zionc
+  position: Global Shapers, IdeaSpace, Startup Weekend, Press Relations
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -201,8 +168,8 @@ social:
     url: 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Governor's Mansion
+  - line: Bohol 6300, Philippines
 
 # Build settings
 markdown: kramdown
