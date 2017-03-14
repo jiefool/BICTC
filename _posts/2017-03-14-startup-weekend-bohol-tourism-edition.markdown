@@ -44,4 +44,4 @@ hoping to make a dent in the tourism sector.
 
 This event is organized by members of the Bohol ICT Council.
 You can register for Startup Weekend Bohol Tourism here:
-https\://www.eventbrite.com/e/startup-weekend- bohol-tourism- tickets-31317567688?aff=erelexpmlt
+[Registration Link](https://www.eventbrite.com/e/startup-weekend-bohol-tourism-tickets-31317567688?aff=erelexpmlt)
